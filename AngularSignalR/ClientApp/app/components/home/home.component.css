@@ -1,0 +1,34 @@
+.beer {
+    position: absolute;
+    bottom: 0;
+    width: 200px;
+    background: #E69100;
+}
+.beer-container {
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+.beer-container img {
+    z-index: 1000;
+    position: absolute;
+}
+.main-button{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 40px;
+}
+.main-button button {
+    width: 100%;
+    padding: 15px;
+}
+img.gravatar {
+    border-radius: 50%;
+    top: 40px;
+    left: 74px;
+}
+.glass{
+    display: inline-block;
+}

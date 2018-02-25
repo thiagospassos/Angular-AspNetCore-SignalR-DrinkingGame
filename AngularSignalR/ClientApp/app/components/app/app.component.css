@@ -4,3 +4,7 @@
         padding-top: 50px;
     }
 }
+body{
+    min-height: 100%;
+    position: relative;
+}
