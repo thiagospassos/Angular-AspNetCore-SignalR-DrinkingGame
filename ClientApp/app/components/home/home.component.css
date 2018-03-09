@@ -10,7 +10,7 @@
     position: relative;
 }
 .beer-container img {
-    z-index: 1000;
+    z-index: 100;
     position: absolute;
 }
 .main-button{
@@ -19,6 +19,7 @@
     left: 0;
     right: 0;
     font-size: 40px;
+    z-index: 1000;
 }
 .main-button button {
     width: 100%;
